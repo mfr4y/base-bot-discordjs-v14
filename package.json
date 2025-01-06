@@ -1,0 +1,17 @@
+{
+  "name": "base-bot-discordjs-v14",
+  "version": "1.0.0",
+  "description": "Une base de bot simple basée sur Discord.js v14 comprenants handlers, slash commands et logs simplifiées",
+  "license": "ISC",
+  "author": "mael",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.17.2"
+  },
+  "devDependencies": {}
+}
