@@ -1,5 +1,5 @@
 const { version } = require('discord.js');
-const pkgver = require ("../../../package.json");
+const pkgver = require ("../../package.json");
 
 module.exports = (client) => {
   client.user.setPresence({ activities: [{ name: 'test' }], status: 'dnd' });
